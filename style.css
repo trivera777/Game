@@ -32,7 +32,7 @@
     left: 478px;
     animation: block 1s infinite linear;
 }
-@keyframes block {
+/* @keyframes block {
     0%{left:480px;}
     100%{left:-40px}
-}   
+}    */

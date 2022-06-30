@@ -6,3 +6,8 @@ This is a block game. The objective of this game is for the blocks not to touch 
 
 # Link to game
 [Click here to play!](https://trivera777.github.io/Game/)
+
+# Built With
+- HTML5
+- CSS3
+- JavaScript
